@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               deleteRepeats.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #12
-// 
-//     Course Name:        Programming I
-// 
-//     Course Number:      COSC 1550-01
-// 
-//     Due:                April 21, 2023
-//
 //     This program asks user to input the size of the characters, 
 //     then asks user to input characters. After it the program should find and 
 //     delete repeated entries in a character array.
